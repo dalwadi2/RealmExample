@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RealmExample</string>
+    <string name="notif_long_message">"Congratulations, You are on the verge of accomplishing your goal "</string>
+    <string name="notif_message">"You are nearing your goal "</string>
+    <string name="notif_title">Achievement</string>
+</resources>
